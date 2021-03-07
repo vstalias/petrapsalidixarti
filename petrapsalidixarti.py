@@ -18,7 +18,7 @@ def show_result(choise, computer_choise):
         score['Player'] += 1
         return
         
-    print('Χάσατε!')
+    print('Χάσατε δυστυχώς')
     score['Computer'] += 1
     return
 
